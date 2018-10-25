@@ -1,0 +1,21 @@
+
+
+property initializer syntax
+- sets a function expression to an instance variable of a class
+
+.babelrc for Events client
+
+```
+{
+  "presets": [ "react-app"],
+  "plugins": [
+    "@babel/plugin-proposal-class-properties"
+  ]
+}
+```
+
+inline functions
+- using a function like
+<SomeComponent
+
+
