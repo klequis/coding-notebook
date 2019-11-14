@@ -42,3 +42,4 @@ sudo delgroup [groupname]
 
 ## Reference
 - https://vitux.com/add-and-manage-user-accounts-in-ubuntu-18-04-lts/
+- https://www.cyberciti.biz/faq/linux-list-all-members-of-a-group/
