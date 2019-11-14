@@ -6,6 +6,13 @@
 ```console
 sudo getent group
 ```
+
+**List members of group**
+
+```console
+grep -i --color [groupname] /etc/group
+```
+
 **Add user to group**
 
 ```console
